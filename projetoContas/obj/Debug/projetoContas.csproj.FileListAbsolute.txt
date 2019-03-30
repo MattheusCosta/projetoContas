@@ -1,1 +1,10 @@
 C:\Users\User\Desktop\projetoContas\projetoContas\bin\Debug\projetoContas.exe.config
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.frmPrincipal.resources
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.Properties.Resources.resources
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\projetoContas\projetoContas\bin\Debug\projetoContas.exe
+C:\Users\User\Desktop\projetoContas\projetoContas\bin\Debug\projetoContas.pdb
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.frmLogin.resources
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.exe
+C:\Users\User\Desktop\projetoContas\projetoContas\obj\Debug\projetoContas.pdb

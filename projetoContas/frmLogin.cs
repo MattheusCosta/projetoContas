@@ -10,11 +10,32 @@ using System.Windows.Forms;
 
 namespace projetoContas
 {
-    public partial class Login : Form
+    public partial class frmLogin : Form
     {
-        public Login()
+        public frmLogin()
         {
             InitializeComponent();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "adm" && txtSenha.Text == "123")
+            {
+                frmPrincipal fp = new frmPrincipal();
+                this.Hide();
+                fp.ShowDialog();
+                this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuário ou Senha inválida!");
+                txtUsuario.Focus();
+            }
         }
     }
 }
